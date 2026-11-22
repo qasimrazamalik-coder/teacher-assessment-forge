@@ -1,0 +1,4 @@
+interface:
+  display_name: "Teacher Assessment Forge"
+  short_description: "Create balanced assessment blueprints from learning objectives, difficulty targets and marking "
+  default_prompt: "Use @teacher-assessment-forge on my authorized input and return a validated result."

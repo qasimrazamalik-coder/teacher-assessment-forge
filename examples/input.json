@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "id": "task-a",
+      "priority": 0.9,
+      "effort": 2,
+      "channel": "agent"
+    },
+    {
+      "id": "task-b",
+      "priority": 0.6,
+      "effort": 1,
+      "channel": "human"
+    }
+  ]
+}
